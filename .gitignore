@@ -43,5 +43,4 @@ jspm_packages
 typings/
 
 # IDE
-.vscode
 .idea
