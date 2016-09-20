@@ -1,12 +1,10 @@
 {
   "compilerOptions": {
-    "declaration": true,
+    "outDir": "build",
     "module": "commonjs",
-    "moduleResolution": "node",
-    "noImplicitAny": true,
-    "outDir": "./lib",
-    "preserveConstEnums": true,
-    "removeComments": true
+    "target": "es5",
+    "noImplicitAny": false,
+    "sourceMap": false
   },
   "include": [
     "src/**/*"

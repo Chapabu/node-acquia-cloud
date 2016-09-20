@@ -24,9 +24,6 @@
   "dependencies": {
   },
   "devDependencies": {
-    "@types/chai": "3.4.30",
-    "@types/mocha": "2.2.29",
-    "@types/node": "6.0.31",
     "chai": "^3.5.0",
     "mocha": "^3.0.1",
     "rimraf": "^2.5.4",
