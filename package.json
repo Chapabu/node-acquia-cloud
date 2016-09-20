@@ -4,6 +4,8 @@
   "description": "Acquia Cloud API connector",
   "main": "index.js",
   "scripts": {
+    "build": "echo Using TypeScript && tsc --version && tsc --pretty",
+    "watch": "npm run build -- --watch",
     "test": "mocha"
   },
   "repository": {
